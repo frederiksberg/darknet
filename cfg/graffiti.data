@@ -1,0 +1,6 @@
+classes=1
+train=data/graffiti/train.list
+valid=data/graffiti/test.list
+labels=data/graffiti/labels.txt
+backup=backup/
+top=2
